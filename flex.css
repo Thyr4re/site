@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+.list-item{
+    display: list-item;
+}
+
+.teltpor-show{
+    display: flex !important;
+    transform:  none !important;
+}
+
+.textarea{
+    background-color: white;
+    border-color: black;
+    color: black;
+    border-width: 1px;
+    border-radius: 4px;
+    padding: 0.5rem;
+    cursor: auto;
+}
